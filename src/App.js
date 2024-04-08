@@ -1,10 +1,11 @@
 
 import './App.css';
+import DigitalClock from './components/digital-clock/index'
 
 function App() {
   return (
     <div className="App">
-      d
+        <DigitalClock/>
     </div>
   );
 }
